@@ -1,5 +1,3 @@
-void test(){}
+void test(int value){}
 
 void test2(){}
-
-void test3(){}
