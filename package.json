@@ -11,6 +11,11 @@
         "semantic-release": "^18.0.0"
     },
     "private": true,
+    "release": {
+        "branches": [
+            "main"
+        ]
+    },
     "files": [
         "index.js",
         "CHANGELOG.md",
