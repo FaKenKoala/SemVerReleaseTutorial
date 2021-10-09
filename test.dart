@@ -6,3 +6,4 @@ void test3(){}
 void test5(){}
 
 void test6(){}
+void test7(){}
