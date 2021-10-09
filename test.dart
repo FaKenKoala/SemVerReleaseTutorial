@@ -19,3 +19,4 @@ void test20(){}
 void test21(){}
 
 void test31(){}
+void test32(){}
