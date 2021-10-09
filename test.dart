@@ -1,3 +1,3 @@
 void test(int value){}
 
-void test2(){}
+void test2(String params){}
