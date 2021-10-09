@@ -11,6 +11,7 @@
         "semantic-release": "^18.0.0"
     },
     "private": true,
+    "name": "SemVerReleaseTutorial",
     "release": {
         "branches": [
             "main"
